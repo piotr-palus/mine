@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Films" uuid="db09aef0-c99e-4099-bb2b-a3b31e12c068">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>sakila.*</schema-pattern>
+      <default-schemas>sakila.* world.*</default-schemas>
+    </data-source>
+  </component>
+</project>
